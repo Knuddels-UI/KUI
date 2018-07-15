@@ -1,8 +1,14 @@
 let exports = exports || {};
 
 /**
+ * Importiert eine UI-Componente, die dann genutzt werden kann. 
+ *
  * @method import
- * @param {String} Component
+ * @param {String} Name
+ * @returns {Component} Component
+ * @example
+ *     // Importiere die Popup-Componente
+ *     const Popup = import('Popup');
 */
 const import = function import(name) {
 	if(typeof(exports[name]) != 'undefined') {
