@@ -1,8 +1,7 @@
 let exports = exports || {};
 
 /**
- * @class import
- * @constructor
+ * @method import
  * @param {String} Component
 */
 const import = function import(name) {
