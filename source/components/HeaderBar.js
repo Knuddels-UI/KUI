@@ -1,5 +1,4 @@
 /**
- * @module Component
  * @class HeaderBar
  * @extends Component
  * @constructor

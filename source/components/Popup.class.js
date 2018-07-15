@@ -1,5 +1,4 @@
 /**
- * @module Component
  * @class Popup
  * @extends Component
  * @constructor
