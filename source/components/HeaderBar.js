@@ -1,11 +1,11 @@
 /**
- * @module Popup
+ * @module HeaderBar
  * @constructor
 */
 
-exports.Popup = function Popup() {
+exports.HeaderBar = function HeaderBar() {
 	this.constructor = function constructor() {
-		KnuddelsServer.getDefaultLogger().info("new pop");
+		KnuddelsServer.getDefaultLogger().info("new HeaderBar");
 	};
 	
 	/**

@@ -1,11 +1,11 @@
 /**
- * @module Popup
+ * @module Overlay
  * @constructor
 */
 
-exports.Popup = function Popup() {
+exports.Overlay = function Overlay() {
 	this.constructor = function constructor() {
-		KnuddelsServer.getDefaultLogger().info("new pop");
+		KnuddelsServer.getDefaultLogger().info("new Overlay");
 	};
 	
 	/**
