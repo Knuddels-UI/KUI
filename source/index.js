@@ -1,3 +1,6 @@
+/**
+ * @class Global Functions
+*/
 let exports = exports || {};
 
 /**
