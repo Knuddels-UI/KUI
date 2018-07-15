@@ -1,0 +1,8 @@
+{
+  "theme": "default",
+  "options": {
+    "source": "@master/source",
+    "output": "@branch/docs",
+    "ignore": "(lib|libs|library|node_modules|bower_components)"
+  }
+}
