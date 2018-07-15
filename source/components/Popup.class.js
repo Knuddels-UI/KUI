@@ -26,5 +26,14 @@ exports.Popup = function Popup() {
 		
 	};
 	
+	/**
+	 * @method setSize
+	 * @param {Integer} width Die Breite des Popups
+	 * @height {Integer} height Die Höhe des Popups
+	*/
+	this.setSize = function setSize(width, height) {
+		
+	};
+	
 	this.constructor.apply(this, arguments);
 };
