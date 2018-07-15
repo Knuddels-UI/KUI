@@ -1,5 +1,5 @@
 {
-  "theme": "simple",
+  "theme": "lucid",
   "type": "HTML",
   "options": {
     "source": "@master/source",
