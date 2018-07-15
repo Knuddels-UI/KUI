@@ -1,6 +1,6 @@
 {
   "theme": "default",
-  "type": "MarkDown",
+  "type": "HTML",
   "options": {
     "source": "@master/source",
     "output": "@branch/docs",
