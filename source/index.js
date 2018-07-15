@@ -6,6 +6,8 @@ let exports = exports || {};
  * @method import
  * @param {String} Name
  * @returns {Component} Component
+ * @throws {ComponentNotExistsException}
+ * @static
  * @example
  *     // Importiere die Popup-Componente
  *     const Popup = import('Popup');
