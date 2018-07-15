@@ -1,5 +1,6 @@
 /**
  * @module HeaderBar
+ * @class HeaderBar
  * @constructor
 */
 
