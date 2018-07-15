@@ -1,5 +1,5 @@
 /**
- * @module Popup
+ * @module Component
  * @class Popup
  * @constructor
 */

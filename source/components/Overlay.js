@@ -1,5 +1,6 @@
 /**
- * @module Overlay
+ * @module Component
+ * @class Overlay
  * @constructor
 */
 

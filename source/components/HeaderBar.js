@@ -1,5 +1,5 @@
 /**
- * @module HeaderBar
+ * @module Component
  * @class HeaderBar
  * @constructor
 */
