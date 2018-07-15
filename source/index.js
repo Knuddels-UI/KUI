@@ -14,6 +14,10 @@ let exports = exports || {};
  * @example
  *     // Importiere die Popup-Componente
  *     const Popup = import('Popup');
+ * @example
+ *     // Importiere die HeaderBar-Componente
+ *     const HeaderBar = import('HeaderBar');
+ *     var test = new HeaderBar();
 */
 const import = function import(name) {
 	if(typeof(exports[name]) != 'undefined') {
