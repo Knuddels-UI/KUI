@@ -18,11 +18,6 @@ const import = function import(name) {
 	throw name + ' class not exists!';
 };
 
-/**
- * @class Autoloader
- * @static
- * @private
-*/
 (new function Autoloader() {
 	const PACKAGE = 'com.knuddels.ui';
 	
