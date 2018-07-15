@@ -1,5 +1,10 @@
 let exports = exports || {};
 
+/**
+ * @class import
+ * @constructor
+ * @param {String} Component
+*/
 const import = function import(name) {
 	if(typeof(exports[name]) != 'undefined') {
 		return exports[name];
@@ -8,6 +13,11 @@ const import = function import(name) {
 	throw name + ' class not exists!';
 };
 
+/**
+ * @class Autoloader
+ * @static
+ * @private
+*/
 (new function Autoloader() {
 	const PACKAGE = 'com.knuddels.ui';
 	
