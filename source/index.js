@@ -1,6 +1,3 @@
-/**
- * @class Global Functions
-*/
 let exports = exports || {};
 
 /**
@@ -11,6 +8,7 @@ let exports = exports || {};
  * @returns {Component} Component
  * @throws {ComponentNotExistsException}
  * @static
+ * @global
  * @example
  *     // Importiere die Popup-Componente
  *     const Popup = import('Popup');
