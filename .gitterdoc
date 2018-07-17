@@ -1,11 +1,11 @@
 {
-  "title": "Knuddels-UI Framework",
-  "description": "Das Framework für Knuddels!",
-  "version": "0.0.1-pre-alpha",
-  "theme": "default",
-  "type": "HTML",
-  "options": {
-    "source": "@master/source",
-    "output": "@master/docs"
-  }
+    "title": "Knuddels-UI Framework",
+    "description": "Das Framework f\u00fcr Knuddels!",
+    "version": "0.0.1-pre-alpha",
+    "theme": "default",
+    "type": "MarkDown",
+    "options": {
+        "source": "@master\/source",
+        "output": "@master\/docs"
+    }
 }
