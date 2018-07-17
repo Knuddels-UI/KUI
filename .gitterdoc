@@ -2,7 +2,7 @@
     "title": "Knuddels-UI Framework",
     "description": "Das ultimative UserInterface Framework f\u00fcr Knuddels!",
     "version": "0.0.1-pre-alpha",
-    "theme": "GitHub",
+    "theme": "default",
     "type": "HTML",
     "options": {
         "source": "@master\/source",
