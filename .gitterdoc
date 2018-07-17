@@ -1,7 +1,7 @@
 {
     "title": "Knuddels-UI Framework",
     "description": "Das ultimative UserInterface Framework f\u00fcr Knuddels!",
-    "version": "0.0.1-pre-alpha",
+    "version": "0.0.2-pre-alpha",
     "theme": "default",
     "type": "HTML",
     "options": {
